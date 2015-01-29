@@ -1,0 +1,1 @@
+var classSize = 24;
